@@ -1,2 +1,1 @@
-# fcsSOFI
-Repository for our fcsSOFI analysis code.
+# Repository for our correlation spectroscopy processing and analysis code. 
